@@ -3,14 +3,10 @@ const intialState = {
     products: [
         {
             id: 1,
-            title: "",
-            category: "programmer",
-        },
-        {
-            id: 1,
-            title: "",
+            title: "abhishek",
             category: "programmer",
         }
+        
     ],
 };
 
